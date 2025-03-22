@@ -4,15 +4,7 @@ A simple Employee Payroll System implemented in Java that helps manage employee 
 
 ## 📁 Project Structure
 
-/Employee-Payroll-System-Java
-│
-├── .idea/                     # IntelliJ project configuration files
-├── src/
-│   └── Main.java              # Main application code
-├── .gitignore
-├── Employee Payroll System.iml # IntelliJ module file
-├── README.md                  # Project documentation
-
+![image](https://github.com/user-attachments/assets/09d4219d-3830-4b1f-9ddb-75e713a68490)
 
 ## 💡 Features
 
