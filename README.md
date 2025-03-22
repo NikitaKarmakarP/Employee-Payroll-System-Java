@@ -22,16 +22,17 @@ Employee-Payroll-System-Java/
 
 ## 🛠️ Technologies Used
 
-- Java (Core)
-- IntelliJ IDEA (optional for project structure)
-- Object-Oriented Programming (OOP) principles
+- **Java:** Core programming language used for building the application logic.
+- **OOP (Object-Oriented Programming):** For modular and reusable code (classes, inheritance, encapsulation).
+- **IntelliJ IDEA: (Optional)** IDE used for development.
+- **File Handling in Java:** For saving and retrieving employee payroll records locally (if implemented).
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
+1. **Clone the repository:**
 git clone https://github.com/NikitaKarmakarP/Employee-Payroll-System-Java.git
-2. Open the project in your favorite IDE (e.g., IntelliJ IDEA).
-3. Compile and run `Main.java`:
+2. **Open the project in your favorite IDE (e.g., IntelliJ IDEA).**
+3. **Compile and run `Main.java`:**
 javac src/Main.java java -cp src Main
 
 
